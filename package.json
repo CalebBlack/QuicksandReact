@@ -1,0 +1,25 @@
+{
+  "name": "quicksandreact",
+  "version": "1.0.0",
+  "description": "Official React bindings for Quicksand.JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CalebBlack/QuicksandReact.git"
+  },
+  "keywords": [
+    "quicksand",
+    "react",
+    "state",
+    "binding"
+  ],
+  "author": "CalebBlack",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CalebBlack/QuicksandReact/issues"
+  },
+  "homepage": "https://github.com/CalebBlack/QuicksandReact#readme"
+}

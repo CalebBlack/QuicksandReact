@@ -1,2 +1,2 @@
-const Provider = require('./provider');
-module.exports = {Provider};
+import Provider from './provider';
+export default {Provider};

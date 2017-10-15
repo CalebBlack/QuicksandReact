@@ -34,4 +34,4 @@ function giveState(element,store){
   }
   return React.cloneElement(element, newProps);
 }
-export default Provider;
+module.exports = Provider;

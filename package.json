@@ -1,6 +1,6 @@
 {
   "name": "quicksandreact",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "Official React bindings for Quicksand.JS",
   "main": "index.js",
   "scripts": {

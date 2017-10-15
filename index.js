@@ -1,2 +1,2 @@
 const Provider = require('./provider');
-export default {Provider};
+module.exports = {Provider};
